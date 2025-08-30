@@ -1,3 +1,4 @@
+https://justmysocks.net/members/aff.php?aff=34829
 # Just My Socks 官方代理机场介绍
 
 > 最后更新时间：[在此添加日期]
@@ -23,16 +24,16 @@
 
 ### 官网访问
 
-主官网: [Just My Socks Official](https://justmysocks.net/members/aff.php?aff=33022)（中国大陆无法访问）
+主官网: [Just My Socks Official](https://justmysocks.net/members/aff.php?aff=34829)（中国大陆无法访问）
 
 #### 镜像网址列表
 
 由于访问限制，以下是官方提供的几个可访问的镜像网址：
 
-- [官网备用1](https://justmysocks1.net/members/aff.php?aff=33022)（中国大陆无法访问）
-- [官网备用2](https://justmysocks2.net/members/aff.php?aff=33022)（中国大陆可以访问）
-- [官网备用3](https://justmysocks3.net/members/aff.php?aff=33022)（中国大陆可以访问）
-- [官网备用4](https://justmysocks5.net/members/aff.php?aff=33022)（中国大陆可以访问）
+- [官网备用1](https://justmysocks1.net/members/aff.php?aff=34829)（中国大陆无法访问）
+- [官网备用2](https://justmysocks2.net/members/aff.php?aff=34829)（中国大陆可以访问）
+- [官网备用3](https://justmysocks3.net/members/aff.php?aff=34829)（中国大陆可以访问）
+- [官网备用4](https://justmysocks5.net/members/aff.php?aff=34829)（中国大陆可以访问）
 
   ![image](https://github.com/jensebancr/JustMySocks/assets/157679386/839711bb-c951-4ae9-9ff2-d5e440f70be8)
 
@@ -50,22 +51,22 @@ Just My Socks提供多个国际节点，包括美国洛杉矶、英国伦敦、�
 
 | 数据中心 | 套餐名                      | 每月流量  | 月付价格  | 设备限制 | 购买链接 |
 |----------|---------------------------|-----------|-----------|---------|--------|
-| 洛杉矶   | LA 500                    | 500 GB    | $5.88     | 5       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=2) |
-| 洛杉矶   | LA 1000                   | 1 TB      | $9.88     | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=3) |
-| 洛杉矶   | LA 5000                   | 5 TB      | $48.99    | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=4) |
-| 洛杉矶   | LA 10000                  | 10 TB     | $93.99    | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=23) |
-| 伦敦     | London 500                | 500 GB    | $6.8      | 5       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=12) |
-| 伦敦     | London 1000               | 1 TB      | $11.29    | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=14) |
-| 香港     | HK CMI+NTT Plan 500       | 500 GB    | $8.99     | 5       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=13) |
-| 香港     | HK CMI+NTT Plan 1000      | 1 TB      | $14.90    | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=15) |
-| 东京     | Tokyo 100                 | 100 GB    | $29.99    | 3       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=5) |
-| 东京     | Tokyo 500                 | 500 GB    | $135.99   | 5       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=6) |
-| 东京     | Tokyo 1000                | 1 TB      | $239.00   | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=22)|
-| 香港     | Hong Kong 100             | 100 GB    | $34.99    | 3       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=7) |
-| 香港     | Hong Kong 500             | 500 GB    | $149.99   | 5       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=8) |
-| 香港     | Hong Kong 1000            | 1000 GB   | $279.99   | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=11) |
-| 香港     | IPLC HK 300 V2 V2Ray Only 支持ChatGPT | 300 GB  | $21.00    | 3       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=18) |
-| 香港     | IPLC HK 1000 V2 V2Ray Only支持ChatGPT | 1 TB   | $59.00    | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=33022&pid=21) |
+| 洛杉矶   | LA 500                    | 500 GB    | $5.88     | 5       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=2) |
+| 洛杉矶   | LA 1000                   | 1 TB      | $9.88     | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=3) |
+| 洛杉矶   | LA 5000                   | 5 TB      | $48.99    | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=4) |
+| 洛杉矶   | LA 10000                  | 10 TB     | $93.99    | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=23) |
+| 伦敦     | London 500                | 500 GB    | $6.8      | 5       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=12) |
+| 伦敦     | London 1000               | 1 TB      | $11.29    | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=14) |
+| 香港     | HK CMI+NTT Plan 500       | 500 GB    | $8.99     | 5       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=13) |
+| 香港     | HK CMI+NTT Plan 1000      | 1 TB      | $14.90    | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=15) |
+| 东京     | Tokyo 100                 | 100 GB    | $29.99    | 3       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=5) |
+| 东京     | Tokyo 500                 | 500 GB    | $135.99   | 5       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=6) |
+| 东京     | Tokyo 1000                | 1 TB      | $239.00   | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=22)|
+| 香港     | Hong Kong 100             | 100 GB    | $34.99    | 3       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=7) |
+| 香港     | Hong Kong 500             | 500 GB    | $149.99   | 5       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=8) |
+| 香港     | Hong Kong 1000            | 1000 GB   | $279.99   | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=11) |
+| 香港     | IPLC HK 300 V2 V2Ray Only 支持ChatGPT | 300 GB  | $21.00    | 3       | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=18) |
+| 香港     | IPLC HK 1000 V2 V2Ray Only支持ChatGPT | 1 TB   | $59.00    | 无限制    | [优惠购买](https://justmysocks3.net/members/aff.php?aff=34829&pid=21) |
 
 
 ### 购买流程
@@ -74,7 +75,7 @@ Just My Socks提供多个国际节点，包括美国洛杉矶、英国伦敦、�
 ![image](https://github.com/jensebancr/JustMySocks/assets/157679386/d33642e1-7ecf-4b7b-bb8c-3f6f03236788)
 
 3. 点击"优惠购买"，然后在"Choose Billing Cycle"下拉菜单选择购买时间。
-4. 使用优惠码 [JMS9272283](https://justmysocks3.net/members/aff.php?aff=33022) 享受额外折扣。
+4. 使用优惠码 [JMS9272283](https://justmysocks3.net/members/aff.php?aff=34829) 享受额外折扣。
 ![image](https://github.com/jensebancr/JustMySocks/assets/157679386/2d4aec44-34f0-4eba-8e3c-24c23de9de57)
 
 6. 完成购物车和结账流程。
@@ -84,7 +85,7 @@ Just My Socks提供多个国际节点，包括美国洛杉矶、英国伦敦、�
 
 ### 优惠码使用
 
-在结算页面的`Apply Promo Code`处输入 [JMS9272283](https://justmysocks3.net/members/aff.php?aff=33022) ，点击`Validate Code`，享受5.2%的永久优惠。
+在结算页面的`Apply Promo Code`处输入 [JMS9272283](https://justmysocks3.net/members/aff.php?aff=34829) ，点击`Validate Code`，享受5.2%的永久优惠。
 
 ### 完成注册与购买
 
@@ -109,7 +110,7 @@ Just My Socks支持多种配置方式，包括手动配置、订阅地址配置�
 
 ## 节点信息查看
 
-完成购买后，登录到 [Just My Socks官网](https://justmysocks3.net/members/aff.php?aff=33022) ，选择`Services > My Services`即可查看你的节点信息。
+完成购买后，登录到 [Just My Socks官网](https://justmysocks3.net/members/aff.php?aff=34829) ，选择`Services > My Services`即可查看你的节点信息。
 ![image](https://github.com/jensebancr/JustMySocks/assets/157679386/2f379754-b80b-438b-8de7-aec8f0b56311)
 
 ![image](https://github.com/jensebancr/JustMySocks/assets/157679386/e85691ae-8441-441d-8195-b6323f6c20e6)
