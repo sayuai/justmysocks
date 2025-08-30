@@ -1,4 +1,3 @@
-https://justmysocks.net/members/aff.php?aff=34829
 # Just My Socks 官方代理机场介绍
 
 > 最后更新时间：[在此添加日期]
